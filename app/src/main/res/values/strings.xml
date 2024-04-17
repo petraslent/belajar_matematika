@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Belajar Matematika</string>
+
+	<string name="heroes_name">Nama Materi</string>
+	<string name="description">Deskripsi</string>
+
+	<string name="quiz">Soal Bilangan Real</string>
+
+
+	<string name="sistem">Sistem Bilangan Real</string>
+    <string name="operasi">Operasi Hitung Pada Bilangan Real</string>
+
+
+	<string name="sistem_bilangan">Bilangan real merupakan gabungan dari bilangan rasional dengan bilangan irasional.
+Bilangan rasional sebagai bilangan yang dapat dinyatakan dalam bentuk a/b, dengan a, b bilangan bulat dan b≠0. Dengan demikian bilangan rasional dapat berupa bilangan bulat, yang dapat dinyatakan dengan pecahan atau bentuk decimal, dan campurannya. Pecahan didefinisikan sebagai bilangan yang dapat dinyatakan dalam bentuk a/b, dengan a, b bilangan bulat dan b≠0,a≠kb untuk setiap bilangan bulat k. Untuk selanjutnya jika  pecahan maka a dinamakan pembilang dan b dinamakan penyebut. Berdasarkan defenisi tersebut maka ada dua macam pecahan yaitu : pecahan murni bila |a| lebih kecil |b| dan pecahan campuran bila |a|>|b|. Dalam bentuk decimal, bilangan rasional berupa pecahan decimal berulang.  Sedangkan bilangan irasional adalah bilangan yang tidak dapat dinyatakan dalam bentuk a/b, dengan a,b bilangan bulat dan b≠0, misalnya : √2, log 3, ∏,  bilangan e dan sebagainya. Bentuk-bentuk akar merupakan bilangan irasional,bilangan-bilangan ini adalah akar-akar bilangan rasional yang bukan bilangan rasional.
+Himpunan bilangan real(nyata) sering dinyatakan dengan R.Dengan sistem bilangan real, maka antara bilangan-bilangan real dengan titik-titik pada garis bilangan ada hubungan satu-satu sehingga pada garis bilangan tidak terdapat tempat yang kosong, maka hasilny  selalu bilangan real juga . Hal seperti ini dikatakan bahwa operasi penjumlahan dan perkalian pada bilangan real bersifat “ tertutup “. Ada beberapa aksioma yang memberikan sifat-sifat tentang operasi penjumlahan dan perkalian di R, yaitu :
+	1. Sifat ketertutupan dan ketunggalan
+Jika a, b ∈R, maka terdapat satu dan hanya satu bilangan real yang dinyatakan dengan a + b dan ab.
+	2. Sifat komutatit (pertukaran)
+Jika a, b ∈R, maka a+b = b+a dan ab=ba
+	3. Sifat assosiatif  (pengelompokan)
+Jika a,b dan c ∈R, maka a + (b +c ) = (a+b) + c dan a (bc) = (ab) c
+	4. Sifat distributive (penyebaran)
+Jika a, b dan c∈R , maka a (b +c ) = ab+ac, yaitu sifat penyebaran terhadap penjumlahan.
+	5. Adanya unsur identitas (satuan)
+Ada dua bilangn real 0 dan 1 sedemikian sehingga a+0 =a dan a.1 = a
+	6. Adanya negatif  atau invers terhadap penjumlahan
+Untuk setiap bilangan real a, ada suatu bilangan real yang dinamakan negative dari a, dinyatakan -a (dibaca “negative dari a” ) sehingga a+(-a) = 0
+	7. Adanya kebalikan atau invers terhadap perkalian.
+Untuk setiap bilangan real a, kecuali 0 ada suatu bilangan real yang dinamakn kebalikan dari a dinyatakan dari a^(-1) atau 1/a sehingga a. 1/a=1 </string>
+	<string name="operasi_hitung">	1. Operasi Hitung pada Bilangan Bulat
+Dalam Matematika operasi diartikan sebagai “pengerjaan”. Operasi yang dimaksud adalah operasi hitung. Pada dasarnya operasi hitung mencakup empat pengerjaan dasar yaitu : penjumlahan, pengurangan , perkalian dan pembagian. Dari keempar operasi ini yang merupakan operasi pokok adalah penjumlahan. Pengurangan merupakan lawan penjumlahan(penambahan). Perkalian merupakan penambahan berulang. Sedangkan pembagian merupakan pengurangan berulang dan dapat juga dianggap sebagai lawan perkalian. Operasi hitung tersebut merupakan operasi biner yaitu operasi untuk sepasang bilangan (unsur), sehingga apabila ada tiga unsur atau lebih tidak dapat melakukan pengerjaan itu sekaligus tetapi hanya dapat diambil dua unsur sekaligus. Sedangkan urutan pengerjaannya apabila tidak memakai tanda kurung maka urutan yang berlaku secara internasional yaitu pertama perpangkatan, kedua perkalian dan pembagian ( sama kuat, yang ditulis disebelah kiri didahulukan), dan ketiga penjumlahan dan pengurangan ( sama kuat). Agar dalam perhitungan tidak menimbulkan salah tafsir maka sebaiknya digunakan tanda kurung.
+	2. Operasi Hitung pada Bilangan Pecahan
+	a. Penjumlahan  dan Pengurangan
+Untuk menentukan hasil penjumlahan atau pengurangan pecahan, nyatakan pecahan-pecahan itu dengan pecahan-pecahan yang penyebutnya sama, dengan cara mencari dahulu KPK-nya kemudian jumlahkan atau kurangkan pembilangnya.
+Untuk menjumlahkan atau mengurangkan pecahan decimal, dilakukan dengan cara yang hampir sama dengan menjumlahkan atau mengurangkan bilangan bulat dengan memperhatikan letak koma(nilai tempatnya).
+	b. Perkalian dan Pembagian Pecahan
+Untuk mengalikan dua pecahan atau lebih, kalikan pembilang dengan pembilang dan penyebut dengan penyebut dari pecahan-pecahan itu.
+Untuk membagi dengan a/b sama artinya dengan mengalikan dengan b/a. Dengan kata lain, untuk membagi dua pecahan dapat dilakukan dengan mengalikan pecahan yang satu dengan kebalikan pecahan yang lain.
+	c. Persen
+Suatu pecahan dapat ditulis dalam tiga cara, yaitu : pecahan biasa, pecahan decimal dan persen. Persen berarti “perseratus” ditulis “%” yaitu pecahan yang berpenyebut 100. Untuk mengubah bentuk pecahan bias aitu menjadi pecahan yang senilai dengannya dan berpenyebut 100 atau cara kedua dengan mengalikan pecahan itu dengan 100 %. Dengan demikian setiap bilangan pecahan biasa dapat diubah kebentuk yang lain atau sebaliknya, misalnya : 2/5 = 0,4 = 40 %
+</string>
+
+
+</resources>
